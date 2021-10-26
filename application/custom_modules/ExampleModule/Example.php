@@ -1,5 +1,7 @@
 <?php
 namespace App\CustomModules\ExampleModule;
+defined('BASEPATH') OR exit('No direct script access allowed');
+
 class Example 
 {
     private $ci;
